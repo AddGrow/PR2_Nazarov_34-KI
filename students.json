@@ -1,0 +1,34 @@
+{
+    "students": [
+        {
+            "name": "Yakov",
+            "surname": "Kravec",
+            "group": "113-BMI",
+            "estimates": {
+                "module_1": 82,
+                "module_2": 87,
+                "module_3": 90
+            }
+        },
+        {
+            "name": "Svetlana",
+            "surname": "Kopach",
+            "group": "114-KI",
+            "estimates": {
+                "module_1": 90,
+                "module_2": 95,
+                "module_3": 98
+            }
+        },
+        {
+            "name": "Mark",
+            "surname": "Vashenko",
+            "group": "121-A",
+            "estimates": {
+                "module_1": 82,
+                "module_2": 75,
+                "module_3": 80
+            }
+        }
+    ]
+}

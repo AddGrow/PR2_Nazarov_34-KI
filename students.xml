@@ -1,0 +1,32 @@
+<students>
+    <student>
+        <name>Yakov</name>
+        <surname>Kravec</surname>
+        <group>113-BMI</group>
+        <estimates>
+            <module_1>82</module_1>
+            <module_2>87</module_2>
+            <module_3>90</module_3>
+        </estimates>
+    </student>
+    <student>
+        <name>Svetlana</name>
+        <surname>Kopach</surname>
+        <group>114-KI</group>
+        <estimates>
+            <module_1>90</module_1>
+            <module_2>95</module_2>
+            <module_3>98</module_3>
+        </estimates>
+    </student>
+    <student>
+        <name>Mark</name>
+        <surname>Vashenko</surname>
+        <group>121-A</group>
+        <estimates>
+            <module_1>82</module_1>
+            <module_2>75</module_2>
+            <module_3>80</module_3>
+        </estimates>
+    </student>
+</students>
